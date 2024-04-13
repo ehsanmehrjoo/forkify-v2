@@ -167,6 +167,6 @@ const init = function () {
   PaginationView.addHandlerClick(controlPagination);
   addrecipeView.addHandlerUpload(controlAddRecipe);
   // sortView._addHandlerSort(controlSortSearch);
-  console.log('hi');
+  console.log('hi'); 
 };
 init();
